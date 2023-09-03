@@ -167,7 +167,7 @@ function showRecommendations(recommendations) {
         console.log(recommendation);
         projectHTML += `
         <div class="box tilt">
-            <img draggable="false" src="/assets/images/recommendations/${recommendation.image}" alt="recommendation" />
+            <img draggable="false" src="../images/recommendations/${recommendation.image}" alt="recommendation" />
         </div>`
     });
     projectsContainer.innerHTML = projectHTML;
