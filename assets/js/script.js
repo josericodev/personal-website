@@ -160,14 +160,13 @@ function showProjects(projects) {
 }
 
 function showRecommendations(recommendations) {
-    console.log("************** Recommendations", recommendations)
     let projectsContainer = document.querySelector("#recommendations .box-container");
     let projectHTML = "";
     recommendations.forEach(recommendation => {
         console.log(recommendation);
         projectHTML += `
         <div class="box tilt">
-            <img draggable="false" src="../images/recommendations/${recommendation.image}" alt="recommendation" />
+            <img draggable="false" src="./../images/recommendations/${recommendation.image}" alt="recommendation" />
         </div>`
     });
     projectsContainer.innerHTML = projectHTML;
