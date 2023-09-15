@@ -154,16 +154,16 @@ function showProjects(projects) {
     });
     // <!-- tilt js effect ends -->
 
-    /* ===== SCROLL REVEAL ANIMATION ===== */
-    const srtop = ScrollReveal({
-        origin: 'top',
-        distance: '80px',
-        duration: 1000,
-        reset: true
-    });
+    // /* ===== SCROLL REVEAL ANIMATION ===== */
+    // const srtop = ScrollReveal({
+    //     origin: 'top',
+    //     distance: '40px',
+    //     duration: 1000,
+    //     reset: true
+    // });
 
-    /* SCROLL PROJECTS */
-    srtop.reveal('.work .box', { interval: 200 });
+    // /* SCROLL PROJECTS */
+    // srtop.reveal('.work .box', { interval: 200 });
 }
 
 function showRecommendations(recommendations) {
@@ -185,15 +185,15 @@ function showRecommendations(recommendations) {
     // <!-- tilt js effect ends -->
 
     /* ===== SCROLL REVEAL ANIMATION ===== */
-    const srtop = ScrollReveal({
-        origin: 'top',
-        distance: '80px',
-        duration: 1000,
-        reset: true
-    });
+    // const srtop = ScrollReveal({
+    //     origin: 'top',
+    //     distance: '40px',
+    //     duration: 1000,
+    //     reset: true
+    // });
 
-    /* SCROLL PROJECTS */
-    srtop.reveal('.work .box', { interval: 200 });
+    // /* SCROLL PROJECTS */
+    // srtop.reveal('.work .box', { interval: 200 });
 }
 
 fetchData().then(data => {
@@ -246,13 +246,13 @@ document.onkeydown = function (e) {
 }
 
 
-/* ===== SCROLL REVEAL ANIMATION ===== */
-const srtop = ScrollReveal({
-    origin: 'top',
-    distance: '80px',
-    duration: 1000,
-    reset: true
-});
+// /* ===== SCROLL REVEAL ANIMATION ===== */
+// const srtop = ScrollReveal({
+//     origin: 'top',
+//     distance: '40px',
+//     duration: 1000,
+//     reset: true
+// });
 
 /* SCROLL HOME */
 srtop.reveal('.home .content h3', { delay: 200 });
