@@ -1,0 +1,98 @@
+[
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/color/48/angularjs.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Sass",
+        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "GIMP",
+        "icon": "https://img.icons8.com/color/48/gimp.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/jenkins.png"
+    },
+    {
+        "name": "Agile",
+        "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-agile-no-code-flaticons-flat-flat-icons.png"
+    },
+    {
+        "name": "SCRUM",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-scrum-ux-and-ui-icons-flaticons-lineal-color-flat-icons-2.png"
+    },
+    {
+        "name": "Terminal",
+        "icon": "https://img.icons8.com/nolan/64/console.png"
+    },
+    {
+        "name": "REST API",
+        "icon": "https://img.icons8.com/color-glass/48/api-settings.png"
+    },
+    {
+        "name": "Polymer",
+        "icon": "https://img.icons8.com/color/48/polymer.png"
+    },
+    {
+        "name": "Lit-Element",
+        "icon": "https://img.icons8.com/ultraviolet/40/fire-element--v1.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+]
